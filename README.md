@@ -19,6 +19,7 @@
 用法可看 hello.vue 文件如下：
 
 ``` bash
+
 #引用指令文件
 import '../directives/verify';
 #input使用指令()
